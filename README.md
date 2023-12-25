@@ -16,3 +16,8 @@
 
   </div>
   </p>
+  **Favorite Quote:**
+  
+  <p align="center">
+    <em>"Think twice, code once."</em>
+  </p>
