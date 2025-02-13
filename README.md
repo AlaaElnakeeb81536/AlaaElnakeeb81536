@@ -3,11 +3,7 @@
 <br>
 
 # Hey there🙋‍♂️, I am Alaa Elnakeeb  
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@alaaelnakeeb81)  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alaa-elnakeeb-3784a5225/)  
-[<img src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/alaaelnakeeb)  
-[<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/alaaelnakeeb)  
-[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alaaelnakeeb81@gmail.com)  
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@alaaelnakeeb81)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alaa-elnakeeb-3784a5225/)[<img src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/alaaelnakeeb)[<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/alaaelnakeeb)[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alaaelnakeeb81@gmail.com)  
 
 # I look forward to absorbing knowledge🧠, gaining experience👨‍🏭, collaborating🤝, and building amazing products 🏭 for the world🌍!
 
@@ -15,10 +11,13 @@
 
 ## **🚀 About Me**
 - 🎓 **Data Enthusiast** passionate about **Data Analysis, AI, and Machine Learning**  
-- 🏆 Vice Head, **Data Analysis Track** @ Microsoft Student Ambassadors  
-- 🤖 Currently working on **Deep Learning, NLP, and Self-Supervised Learning**  
-- 🛠 Interested in **Computer Vision, Power BI, ETL, and AI for Social Good**  
-- 🏗 Exploring **MLOps, Hugging Face, and AI model deployment**  
+ 
+
+## **📫 How to Reach Me:**
+📩 Email: **alaaelnakeeb81@gmail.com**  
+💬 LinkedIn: [Alaa Elnakeeb](https://www.linkedin.com/in/alaa-elnakeeb-3784a5225/)  
+📖 Medium: [@alaaelnakeeb81](https://medium.com/@alaaelnakeeb81)  
+📊 Kaggle: [Alaa Elnakeeb](https://www.kaggle.com/alaaelnakeeb)  
 
 ---
 
@@ -36,12 +35,6 @@
 </p>
 
 ---
-
-## **📫 How to Reach Me:**
-📩 Email: **alaaelnakeeb81@gmail.com**  
-💬 LinkedIn: [Alaa Elnakeeb](https://www.linkedin.com/in/alaa-elnakeeb-3784a5225/)  
-📖 Medium: [@alaaelnakeeb81](https://medium.com/@alaaelnakeeb81)  
-📊 Kaggle: [Alaa Elnakeeb](https://www.kaggle.com/alaaelnakeeb)  
 
 ---
 
