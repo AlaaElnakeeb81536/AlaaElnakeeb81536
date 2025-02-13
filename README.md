@@ -8,9 +8,11 @@
 
 
 ## **🚀 About Me**
-- 🎓 **Data Enthusiast** passionate about ** Data Analysis ,  AI, and Machine Learning**  
-- 🏆 Vice Head, **Data Analysis Track** @ Microsoft Student Ambassadors
-- 
+- **Data Enthusiast** passionate about ** Data Analysis ,  AI, and Machine Learning**  
+- Vice Head, **Data Analysis Track** @ Microsoft Student Ambassadors
+- to reach me : alaaelnakeeb81@gmail.com
+- my resum : [Alaa CV](https://docs.google.com/document/d/1Mob8oRYuzZzV5EQaD4hMeQUEjxXxGtkdWc7gUSbLDQ0/edit)
+  
 **Languages and Tools:**
 
 <p align="center">
