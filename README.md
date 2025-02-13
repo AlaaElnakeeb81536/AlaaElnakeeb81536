@@ -7,19 +7,15 @@
 
 # I look forward to absorbing knowledge🧠, gaining experience👨‍🏭, collaborating🤝, and building amazing products 🏭 for the world🌍!
 
----
-
 ## **🚀 About Me**
 - 🎓 **Data Enthusiast** passionate about **Data Analysis, AI, and Machine Learning**  
  
 
 ## **📫 How to Reach Me:**
-📩 Email: **alaaelnakeeb81@gmail.com**  
-💬 LinkedIn: [Alaa Elnakeeb](https://www.linkedin.com/in/alaa-elnakeeb-3784a5225/)  
-📖 Medium: [@alaaelnakeeb81](https://medium.com/@alaaelnakeeb81)  
-📊 Kaggle: [Alaa Elnakeeb](https://www.kaggle.com/alaaelnakeeb)  
-
----
+- 📩 Email: **alaaelnakeeb81@gmail.com**  
+- 💬 LinkedIn: [Alaa Elnakeeb](https://www.linkedin.com/in/alaa-elnakeeb-3784a5225/)  
+- 📖 Medium: [@alaaelnakeeb81](https://medium.com/@alaaelnakeeb81)  
+- 📊 Kaggle: [Alaa Elnakeeb](https://www.kaggle.com/alaaelnakeeb)  
 
 ## **💻 Languages and Tools:**
 
@@ -34,9 +30,6 @@
   </div>
 </p>
 
----
-
----
 
 ## **✨ Favorite Quote:**
 <p align="center">
