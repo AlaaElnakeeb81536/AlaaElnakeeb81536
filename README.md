@@ -2,25 +2,50 @@
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <br>
 
-# Hey there🙋‍♂️, I am Alaa Elnakeeb
+# Hey there🙋‍♂️, I am Alaa Elnakeeb  
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@alaaelnakeeb81)  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alaa-elnakeeb-3784a5225/) 
-[<img src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.kaggle.com/alaaelnakeeb)
-# I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alaa-elnakeeb-3784a5225/)  
+[<img src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/alaaelnakeeb)  
+[<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/alaaelnakeeb)  
+[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:alaaelnakeeb81@gmail.com)  
 
-**Languages and Tools:**
+# I look forward to absorbing knowledge🧠, gaining experience👨‍🏭, collaborating🤝, and building amazing products 🏭 for the world🌍!
+
+---
+
+## **🚀 About Me**
+- 🎓 **Data Enthusiast** passionate about **Data Analysis, AI, and Machine Learning**  
+- 🏆 Vice Head, **Data Analysis Track** @ Microsoft Student Ambassadors  
+- 🤖 Currently working on **Deep Learning, NLP, and Self-Supervised Learning**  
+- 🛠 Interested in **Computer Vision, Power BI, ETL, and AI for Social Good**  
+- 🏗 Exploring **MLOps, Hugging Face, and AI model deployment**  
+
+---
+
+## **💻 Languages and Tools:**
 
 <p align="center">
-
   <div align="center">
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" 
-                                                                                                                                                                                                                                                                                   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="40" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code></code>   
-
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>  
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>  
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>  
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>  
   </div>
-  </p>
-  **Favorite Quote:**
-  
-  <p align="center">
+</p>
+
+---
+
+## **📫 How to Reach Me:**
+📩 Email: **alaaelnakeeb81@gmail.com**  
+💬 LinkedIn: [Alaa Elnakeeb](https://www.linkedin.com/in/alaa-elnakeeb-3784a5225/)  
+📖 Medium: [@alaaelnakeeb81](https://medium.com/@alaaelnakeeb81)  
+📊 Kaggle: [Alaa Elnakeeb](https://www.kaggle.com/alaaelnakeeb)  
+
+---
+
+## **✨ Favorite Quote:**
+<p align="center">
     <em>"Think twice, code once."</em>
-  </p>
+</p>
