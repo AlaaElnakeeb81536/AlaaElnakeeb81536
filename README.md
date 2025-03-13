@@ -11,7 +11,7 @@
 - **Data Enthusiast** passionate about ** Data Analysis ,  AI, and Machine Learning**  
 - Vice Head, **Data Analysis Track** @ Microsoft Student Ambassadors
 - to reach me : alaaelnakeeb81@gmail.com
-- my resum : [Alaa CV](https://drive.google.com/file/d/1NMv3c4GA4l941kZb5VdXh0sLjGbSUT8v/view?usp=sharing)
+- my resum : [Alaa CV](https://drive.google.com/file/d/1V5-vh52_9nz2T6-dK5cxNB8HMcqhw4wU/view?usp=sharing)
   
 **Languages and Tools:**
 
